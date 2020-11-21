@@ -1,0 +1,6 @@
+name: AnimationJoin
+version: 1.0.0
+author: Teunboeke 
+main: Teunboeke\AnimationJoin\Main
+api: 3.0.0
+description: plugin that make an animation when joining the server!
